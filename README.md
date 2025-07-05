@@ -1,7 +1,7 @@
 # Motor-Sales-Forecasting-ML
 Web-based machine learning model using TensorFlow.js to forecast motor sales. Features historical analysis, neural network training, and 2025-26 predictions with interactive visualisations.
 
-# 🚀 Interactive Motor Sales Forecasting ML Model (Demonstration)
+# 🚀 Interactive Motor Sales Forecasting ML Model
 
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](https://en.wikipedia.org/wiki/All_rights_reserved)
 [![Tech Stack](https://img.shields.io/badge/tech-HTML%2C%20CSS%2C%20JS-blue.svg)]()
