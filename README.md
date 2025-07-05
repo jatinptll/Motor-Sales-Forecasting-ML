@@ -12,7 +12,7 @@ Web-based machine learning model using TensorFlow.js to forecast motor sales. Fe
 This project is a proprietary demonstration. The code contained in this repository is not licensed for any use, commercial or non-commercial. See the **License and Usage** section for more details.
 
 ### ✨ [Live Demo Here!](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/)
-*(This link is for viewing the live functionality only.)*
+
 
 ---
 
