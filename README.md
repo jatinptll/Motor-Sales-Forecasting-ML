@@ -7,7 +7,7 @@ Web-based machine learning model using TensorFlow.js to forecast motor sales. Fe
 [![Tech Stack](https://img.shields.io/badge/tech-HTML%2C%20CSS%2C%20JS-blue.svg)]()
 [![Powered by TensorFlow.js](https://img.shields.io/badge/Powered%20By-TensorFlow.js-orange)]()
 
-**Copyright (c) 2025 [Your Name or Your Company Name]. All Rights Reserved.**
+**Copyright (c) 2025 [Jatin Patel]. All Rights Reserved.**
 
 This project is a proprietary demonstration. The code contained in this repository is not licensed for any use, commercial or non-commercial. See the **License and Usage** section for more details.
 
